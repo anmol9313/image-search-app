@@ -1,4 +1,4 @@
-const UNSPLASH_ACCESS_KEY = "Aa7EyPnyv0R8bjP6gZ7Iqemh9W-BY1AgILLaCbPWOCM"; // Replace with your Unsplash Access Key
+const UNSPLASH_ACCESS_KEY = "ADD your API access key"; // Replace with your Unsplash Access Key
 const searchForm = document.getElementById("search-engine");
 const searchBox = document.getElementById("search-box");
 const searchResults = document.getElementById("search-results");
